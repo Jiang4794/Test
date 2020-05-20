@@ -1,0 +1,6 @@
+E:\vswork\Servers\Servers\bin\Debug\Servers.exe.config
+E:\vswork\Servers\Servers\bin\Debug\Servers.exe
+E:\vswork\Servers\Servers\bin\Debug\Servers.pdb
+E:\vswork\Servers\Servers\obj\Debug\Servers.csprojResolveAssemblyReference.cache
+E:\vswork\Servers\Servers\obj\Debug\Servers.exe
+E:\vswork\Servers\Servers\obj\Debug\Servers.pdb
